@@ -1,0 +1,4 @@
+﻿#FAMAR FIS SERVER PARAMETERS
+
+$port=24299
+$remoteHost = "10.20.218.240"
